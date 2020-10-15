@@ -9,3 +9,7 @@ This repository contains all my blogposts as well as supplementary material.
 # What's new in BuckleScript 7?
 
 - [What's new in BuckleScript 7?](./whats-new-in-bs-7.md) ([dev.to](https://dev.to/fhammerschmidt/what-s-new-in-bucklescript-7-1bf4))
+
+# ReScript
+
+- [Nicer APIs with ReScript?](./nicer-apis-with-rescript.md) ([dev.to](https://dev.to/fhammerschmidt/nicer-apis-with-rescript-361))

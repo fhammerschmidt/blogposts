@@ -13,3 +13,7 @@ This repository contains all my blogposts as well as supplementary material.
 # ReScript
 
 - [Nicer APIs with ReScript?](./nicer-apis-with-rescript.md) ([dev.to](https://dev.to/fhammerschmidt/nicer-apis-with-rescript-361))
+
+# Misc
+
+- [My programming language history](./my-programming-language-history.md) ([dev.to](https://dev.to/fhammerschmidt/my-programming-language-history-3eae))
